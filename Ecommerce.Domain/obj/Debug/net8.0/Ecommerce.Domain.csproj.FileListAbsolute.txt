@@ -9,3 +9,4 @@ C:\Users\Lucas\Desktop\Backend\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domai
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll
+C:\Users\Lucas\Desktop\Backend\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.sourcelink.json

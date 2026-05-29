@@ -166,3 +166,4 @@ C:\Users\Lucas\Desktop\Backend\Ecommerce.Presentation\obj\Debug\net8.0\refint\Ec
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.pdb
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Presentation\obj\Debug\net8.0\ref\Ecommerce.Presentation.dll
+C:\Users\Lucas\Desktop\Backend\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.sourcelink.json

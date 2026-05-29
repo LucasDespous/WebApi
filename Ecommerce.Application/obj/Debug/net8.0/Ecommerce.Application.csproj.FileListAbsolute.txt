@@ -13,3 +13,4 @@ C:\Users\Lucas\Desktop\Backend\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Application\obj\Debug\net8.0\refint\Ecommerce.Application.dll
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.Application.pdb
 C:\Users\Lucas\Desktop\Backend\Ecommerce.Application\obj\Debug\net8.0\ref\Ecommerce.Application.dll
+C:\Users\Lucas\Desktop\Backend\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.Application.sourcelink.json

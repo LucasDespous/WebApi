@@ -30,7 +30,6 @@ Ecommerce.Presentation
 
 - Registro de usuarios
 - Login con JWT
-- Usuario autenticado puede ver su perfil
 - Roles: `Admin` y `User`
 - Endpoints protegidos con `[Authorize]`
 - Endpoints exclusivos para Admin con `[Authorize(Roles = "Admin")]`
